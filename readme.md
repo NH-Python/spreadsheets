@@ -10,6 +10,12 @@ Lorem ipsum
 
 #### `excel.py`
 
-Lorem ipsum
+Open `excel.xlsx` to view the "before" state of the file.
+
+From `/spreadsheets` execute:
+
+    python excel.py
+
+This will change the contents and the formatting of the file, including inserting text, numbers, a formula, column autofit and background colors.
 
 #### `sheets.py`
