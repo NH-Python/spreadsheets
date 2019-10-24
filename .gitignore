@@ -3,3 +3,6 @@ venv
 client_secret.json
 Pipfile
 Pipfile.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints

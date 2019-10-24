@@ -1,0 +1,50 @@
+{
+  "Night of the Living Dead": {
+    "Director": "George A. Romero",
+    "Stars": "Duane Jones, Judith O'Dea, Karl Hardman",
+    "Year": 1968,
+    "Runtime": 96
+  },
+  "The Exorcist": {
+    "Director": "William Friedkin",
+    "Stars": "Linda Blair",
+    "Year": 1973,
+    "Runtime": 122
+  },
+  "The Rocky Horror Picture Show": {
+    "Director": "Jim Sharman",
+    "Stars": "Tim Curry, Susan Sarandon",
+    "Year": 1975,
+    "Runtime": 100
+  },
+  "The Shining": {
+    "Director": "Stanley Kubrick",
+    "Stars": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+    "Year": 1980,
+    "Runtime": 126
+  },
+  "Predator": {
+    "Director": "John McTiernan",
+    "Stars": "Arnold Schwarzenegger, Carl Weathers, Kevin Peter Hall",
+    "Year": 1987,
+    "Runtime": 107
+  },
+  "Pet Sematary": {
+    "Director": "Mary Lambert",
+    "Stars": "Dale Midkiff, Denise Crosby, Fred Gwynne",
+    "Year": 1989,
+    "Runtime": 103
+  },
+  "Friday the 13th": {
+    "Director": "Sean S. Cunningham",
+    "Stars": "Betsy Palmer, Adrienne King, Jeannine Taylor",
+    "Year": 1980,
+    "Runtime": 95
+  },
+  "Poltergeist": {
+    "Director": "Tobe Hooper",
+    "Stars": "JoBeth Williams, Heather O'Rourke, Craig T. Nelson",
+    "Year": 1982,
+    "Runtime": 114
+  }
+}
