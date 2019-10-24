@@ -3,3 +3,10 @@ venv
 client_secret.json
 Pipfile
 Pipfile.lock
+.DS_Store
+
+# Jupyter Notebook and created files
+.ipynb_checkpoints
+csv_pd_chunk.csv
+csv_pd_to_json.json
+csv_spookyszn.esv
