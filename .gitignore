@@ -1,2 +1,5 @@
+.vscode
+venv
+client_secret.json
 Pipfile
 Pipfile.lock
