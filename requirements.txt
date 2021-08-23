@@ -16,7 +16,7 @@ jupyter==1.0.0
 jupyter_client==5.2.4
 jupyter_console==6.0.0
 jupyter_core==4.4.0
-jupyterlab==0.35.4
+jupyterlab==1.2.21
 jupyterlab_server==0.2.0
 numpy==1.17.3
 oauthlib==3.1.0
