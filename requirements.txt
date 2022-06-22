@@ -18,7 +18,7 @@ jupyter_console==6.0.0
 jupyter_core==4.4.0
 jupyterlab==0.35.4
 jupyterlab_server==0.2.0
-numpy==1.17.3
+numpy==1.22.0
 oauthlib==3.1.0
 pandas==0.25.2
 psutil==5.6.3
